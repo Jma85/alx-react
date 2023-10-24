@@ -1,0 +1,15 @@
+# Web Stack - React
+
+![ALX logo](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
+
+> Web Stack - React
+
+## Description:bulb:
+
+- Webpack
+
+---
+
+## Author
+
+* **Jannat** (@Jma85 -[https://github.com/Jma85]
