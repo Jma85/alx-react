@@ -21,8 +21,8 @@
 .App-footer {
   border-top: 3px solid var(--color-brand);
   width: 100%;
+  display: flex;
   justify-content: center;
-  display: flexter;
   position: fixed;
   bottom: 0;
   font-style: italic;
